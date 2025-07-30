@@ -18,7 +18,7 @@ This project analyzes historical sea level data and predicts future sea levels u
   - One using **all data**.
   - One using data from **2000 onwards**.
 - Saves the final plot as `sea_level_plot.png`.
-- ![image alt]("https://github.com/rayyanm86/Sea-Level-Predictor/blob/3444c472e232d83e101ca9ea606f8332186e3ccc/sea_level_plot.png")
+- ![image alt](https://github.com/rayyanm86/Sea-Level-Predictor/blob/3444c472e232d83e101ca9ea606f8332186e3ccc/sea_level_plot.png)
 
 
 ## 🧪 How to Run
